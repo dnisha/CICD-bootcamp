@@ -1,0 +1,11 @@
+sudo apt update
+
+sudo apt install dnf
+
+sudo apt update
+
+sudo apt install dnf
+
+sudo apt install nextgen-yum4
+
+sudo apt-get update -y
