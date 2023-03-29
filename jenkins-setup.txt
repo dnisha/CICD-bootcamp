@@ -23,3 +23,7 @@ sudo systemctl status jenkins
 
 sudo apt install maven
 sudo apt install docker.io 
+
+sudo usermod -aG docker jenkins
+
+#reboot instance now
